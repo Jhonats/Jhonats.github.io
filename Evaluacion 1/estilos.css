@@ -1,0 +1,152 @@
+body{
+    background-color: #66370c;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+.inicio{
+   background-image: url(/Imagenes/Banner\ Guitarra.JPG);
+}
+h2{
+    color: white;
+    text-align: justify;
+    font-size: 30px;
+}
+
+h3, .artistas {
+    color: white;
+    text-align: justify;
+    text-decoration: none;
+}
+
+h4{
+    color: rgb(14, 145, 14);
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    text-align: justify;
+}
+
+hr{
+    color: white;
+}
+
+img{
+    display: block;
+    width: 1333px;
+    height: 700px;
+}
+
+#gibson{
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 400px;
+}
+
+#hybrid{
+    display: block;
+    margin: auto;
+    height: 380px;
+    width: 500px;
+}
+
+#Washburn{
+    display: block;
+    margin: auto;
+    height: 380px;
+    width: 500px;
+}
+
+#stratocaster{
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 480px;
+}
+
+#fenderstratocaster{
+    display: block;
+    margin: auto;
+    height: 300px;
+    width: 700px;
+}
+
+.artistas:hover {
+    color: aqua;
+    text-align: justify;
+}
+
+.siguiente{
+    color: white;
+    text-decoration: none;
+}
+
+.siguiente:hover{
+    color: aqua;
+    text-align: justify;
+}
+
+footer{
+    background-color: black;
+}
+
+#creador{
+    color: red;
+    text-align: center;
+}
+
+.regresar{
+    color: white;
+    text-decoration: none;
+}
+
+.regresar:hover{
+    color: aqua;
+    text-align: justify;
+}
+
+.labels{
+    background-color: white;
+}
+
+#imgregistro{
+    display: block;
+    margin: auto;
+    height: 500px;
+    width: 700px;
+}
+
+#gracias{
+    text-align: center;
+    background-color: white;
+    color: black;
+}
+
+#inicio{
+    background-color: white;
+    color: black;
+}
+
+#inicio:hover{
+    color: aqua;
+    text-align: justify;
+}
+
+#regresarreg{
+    background-color: white;
+    color: black;
+    
+}
+
+#regresarreg:hover{
+    color: aqua;
+    text-align: justify;
+}
